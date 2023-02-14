@@ -1,0 +1,23 @@
+
+      body{
+        background-color: seashell;
+      }
+      h1{
+        color: lightslategrey;
+      }
+      h2{
+        color: cadetblue;
+      }
+      
+      img{
+       background-color: floralwhite;
+      }
+      
+      .circular{
+        border-radius: 100%;
+      }
+      #heading{
+       color: steelblue;
+      }
+
+    
